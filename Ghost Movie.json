@@ -566,6 +566,12 @@
       "name": "ʜɪɴᴅɪ",
       "movies": [
         {
+          "name": "Karuppu",
+          "logo": "https://image.tmdb.org/t/p/original//4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+          "link": "https://fmftp.net/data/disk-1/movies/hindidub/Karuppu%20(2026)/Karuppu.mp4",
+          "premium": false
+        },
+        {
           "name": "Bhabiji Ghar Par Hain",
           "link": "https://fmftp.net/data/disk-1/movies/bollywood/2026/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run%20(2026)/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run.mp4",
           "logo": "https://image.tmdb.org/t/p/original//v8G1NudtXq7BP56TgmAfpDx10FQ.jpg",
