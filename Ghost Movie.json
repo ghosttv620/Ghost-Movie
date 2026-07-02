@@ -120,7 +120,8 @@
           "name": "Sathi",
           "link": "https://fmftp.net/data/disk-1/movies/indianbangla/1951_2017/Sathi%20(2002)/Sathi%20(2002)%20720p.mkv",
           "logo": "https://image.tmdb.org/t/p/original//9F19rT5hXzs3qiyTmfHD38ufrTe.jpg",
-          "premium": false
+          "premium": false,
+          "hidden": true
         },
         {
           "name": "Aguner Pakhi",
