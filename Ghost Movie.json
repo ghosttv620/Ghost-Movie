@@ -1,6 +1,113 @@
 {
   "categories": [
     {
+      "name": "Hindi",
+      "movies": [
+        {
+          "name": "Karuppu",
+          "logo": "https://image.tmdb.org/t/p/original//4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+          "link": "https://fmftp.net/data/disk-1/movies/hindidub/Karuppu%20(2026)/Karuppu.mp4",
+          "premium": false
+        },
+        {
+          "name": "Bhabiji Ghar Par Hain",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2026/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run%20(2026)/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//v8G1NudtXq7BP56TgmAfpDx10FQ.jpg",
+          "premium": false
+        },
+        {
+          "name": "Jatadhara",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Jatadhara%20(2025)/Jatadhara.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//jhDsVtdxEcxmuf794Hny5oKyaR4.jpg",
+          "premium": false
+        },
+        {
+          "name": "Haq",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Haq%20(2025)/Haq.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//vjvDGeI9c1RGw9KFGCntI0vA4du.jpg",
+          "premium": false
+        },
+        {
+          "name": "Single Salma",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Single%20Salma%20(2025)/Single%20Salma.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//wjWX2IAZphVJydldUZBTwzDIFHb.jpg",
+          "premium": false
+        },
+        {
+          "name": "Baahubali The Epic",
+          "logo": "https://image.tmdb.org/t/p/original//z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Baahubali%20The%20Epic%20(2025)/Baahubali%20The%20Epic.mp4",
+          "premium": true
+        },
+        {
+          "name": "Thamma",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Thamma%20(2025)/Thamma.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
+          "premium": false
+        },
+        {
+          "name": "Ek Deewane Ki Deewaniyat",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Ek%20Deewane%20Ki%20Deewaniyat%20(2025)/Ek%20Deewane%20Ki%20Deewaniyat.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//y3TEsi9egFJxYgBYZKPJTCGLFu5.jpg",
+          "premium": false
+        },
+        {
+          "name": "Bhagwat Chapter One Raakshas",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Bhagwat%20Chapter%20One%20Raakshas%20(2025)/Bhagwat%20Chapter%20One%20Raakshas.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//hXVDG74ykzadnIHtPpV8eZWwtZB.jpg",
+          "premium": false
+        },
+        {
+          "name": "Kantara A Legend Chapter 1",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Bhagwat%20Chapter%20One%20Raakshas%20(2025)/Bhagwat%20Chapter%20One%20Raakshas.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+          "premium": false
+        },
+        {
+          "name": "Sunny Sanskari Ki Tulsi Kumari",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20(2025)/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
+          "premium": false
+        },
+        {
+          "name": "Raat Akeli",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20(2025)/Raat%20Akeli%20Hai%20The%20Bansal%20Murders.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
+          "premium": false
+        },
+        {
+          "name": "Shamsuddin Family",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/The%20Great%20Shamsuddin%20Family%20(2025)/The%20Great%20Shamsuddin%20Family.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//1ZOwQeDMrUStgNEjNTjgyFTq5a2.jpg",
+          "premium": false
+        },
+        {
+          "name": "120 Bahadur",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/120%20Bahadur%20(2025)/120%20Bahadur.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//fdxf02vUous6fty6O4nollyuo4m.jpg",
+          "premium": false
+        },
+        {
+          "name": "Nishaanchi 2",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Nishaanchi%202%20(2025)/Nishaanchi%202%20(2025).mp4",
+          "logo": "https://image.tmdb.org/t/p/original//xUayFrF27SdDZYlKQBUlqxUOxcB.jpg",
+          "premium": false
+        },
+        {
+          "name": "De De Pyaar De 2",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/De%20De%20Pyaar%20De%202%20(2025)/De%20De%20Pyaar%20De%202.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
+          "premium": false
+        },
+        {
+          "name": "The Girlfriend",
+          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/The%20Girlfriend%20(2025)/The%20Girlfriend.mp4",
+          "logo": "https://image.tmdb.org/t/p/original//vcGeERDrMBVihLaxbFbj5pK3kgL.jpg",
+          "premium": false
+        }
+      ]
+    },
+    {
       "name": "Bangla",
       "movies": [
         {
@@ -560,113 +667,6 @@
           "logo": "https://image.tmdb.org/t/p/original//81jDsmFwq3GKgFAGqYFan7FHltu.jpg",
           "link": "https://fmftp.net/data/disk-1/movies/indianbangla/new/Taandob%20(2025)/Taandob.mp4",
           "premium": true
-        }
-      ]
-    },
-    {
-      "name": "Hindi",
-      "movies": [
-        {
-          "name": "Karuppu",
-          "logo": "https://image.tmdb.org/t/p/original//4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-          "link": "https://fmftp.net/data/disk-1/movies/hindidub/Karuppu%20(2026)/Karuppu.mp4",
-          "premium": false
-        },
-        {
-          "name": "Bhabiji Ghar Par Hain",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2026/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run%20(2026)/Bhabiji%20Ghar%20Par%20Hain%20-%20Fun%20on%20the%20Run.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//v8G1NudtXq7BP56TgmAfpDx10FQ.jpg",
-          "premium": false
-        },
-        {
-          "name": "Jatadhara",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Jatadhara%20(2025)/Jatadhara.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//jhDsVtdxEcxmuf794Hny5oKyaR4.jpg",
-          "premium": false
-        },
-        {
-          "name": "Haq",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Haq%20(2025)/Haq.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//vjvDGeI9c1RGw9KFGCntI0vA4du.jpg",
-          "premium": false
-        },
-        {
-          "name": "Single Salma",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Single%20Salma%20(2025)/Single%20Salma.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//wjWX2IAZphVJydldUZBTwzDIFHb.jpg",
-          "premium": false
-        },
-        {
-          "name": "Baahubali The Epic",
-          "logo": "https://image.tmdb.org/t/p/original//z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Baahubali%20The%20Epic%20(2025)/Baahubali%20The%20Epic.mp4",
-          "premium": true
-        },
-        {
-          "name": "Thamma",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Thamma%20(2025)/Thamma.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
-          "premium": false
-        },
-        {
-          "name": "Ek Deewane Ki Deewaniyat",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Ek%20Deewane%20Ki%20Deewaniyat%20(2025)/Ek%20Deewane%20Ki%20Deewaniyat.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//y3TEsi9egFJxYgBYZKPJTCGLFu5.jpg",
-          "premium": false
-        },
-        {
-          "name": "Bhagwat Chapter One Raakshas",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Bhagwat%20Chapter%20One%20Raakshas%20(2025)/Bhagwat%20Chapter%20One%20Raakshas.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//hXVDG74ykzadnIHtPpV8eZWwtZB.jpg",
-          "premium": false
-        },
-        {
-          "name": "Kantara A Legend Chapter 1",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Bhagwat%20Chapter%20One%20Raakshas%20(2025)/Bhagwat%20Chapter%20One%20Raakshas.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
-          "premium": false
-        },
-        {
-          "name": "Sunny Sanskari Ki Tulsi Kumari",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20(2025)/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//h3lncTnK86R8XylpXgpe0JfU1wm.jpg",
-          "premium": false
-        },
-        {
-          "name": "Raat Akeli",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20(2025)/Raat%20Akeli%20Hai%20The%20Bansal%20Murders.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
-          "premium": false
-        },
-        {
-          "name": "Shamsuddin Family",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/The%20Great%20Shamsuddin%20Family%20(2025)/The%20Great%20Shamsuddin%20Family.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//1ZOwQeDMrUStgNEjNTjgyFTq5a2.jpg",
-          "premium": false
-        },
-        {
-          "name": "120 Bahadur",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/120%20Bahadur%20(2025)/120%20Bahadur.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//fdxf02vUous6fty6O4nollyuo4m.jpg",
-          "premium": false
-        },
-        {
-          "name": "Nishaanchi 2",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/Nishaanchi%202%20(2025)/Nishaanchi%202%20(2025).mp4",
-          "logo": "https://image.tmdb.org/t/p/original//xUayFrF27SdDZYlKQBUlqxUOxcB.jpg",
-          "premium": false
-        },
-        {
-          "name": "De De Pyaar De 2",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/De%20De%20Pyaar%20De%202%20(2025)/De%20De%20Pyaar%20De%202.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg",
-          "premium": false
-        },
-        {
-          "name": "The Girlfriend",
-          "link": "https://fmftp.net/data/disk-1/movies/bollywood/2025/The%20Girlfriend%20(2025)/The%20Girlfriend.mp4",
-          "logo": "https://image.tmdb.org/t/p/original//vcGeERDrMBVihLaxbFbj5pK3kgL.jpg",
-          "premium": false
         }
       ]
     },
